@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "./static/js/main.d8f0cdab.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.38831cac.js",
+    "static/js/2.0aa5f93f.chunk.js": "./static/js/2.0aa5f93f.chunk.js",
+    "index.html": "./index.html",
+    "static/js/2.0aa5f93f.chunk.js.LICENSE.txt": "./static/js/2.0aa5f93f.chunk.js.LICENSE.txt",
+    "static/media/zbar.wasm.bin": "./static/media/zbar.wasm.919afea9.bin"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38831cac.js",
+    "static/js/2.0aa5f93f.chunk.js",
+    "static/js/main.d8f0cdab.chunk.js"
+  ]
+}
